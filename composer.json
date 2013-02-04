@@ -1,0 +1,20 @@
+{
+    "name": "phpwax/wildfire.logs",
+    "authors": [
+        {
+            "name": "Charles Marshall",
+            "email": "charles@oneblackbear.com"
+        }
+    ],
+    "require": {
+
+    },
+    "license": "MIT",
+    "autoload": {
+      "classmap": [
+        "lib/"
+      ],
+      "files": ["ini.php"]
+    }
+
+}
